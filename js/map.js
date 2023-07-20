@@ -3,23 +3,22 @@ let image = document.querySelector('.blog').getElementsByTagName('img');
 
 let CARD_TITLE = [
     'some',
-    'Colourful Offer ;',
-    'Running Offer ;',
-    'Absolute clarity of shapes - 1',
-    'Absolute clarity of shapes - 2',
-    'Absolute clarity of shapes - 3',
-    'Absolute clarity of shapes - 4'
+    'Must-Have Accessories for Fashionistas',
+    'Choosing the Perfect Gift for Every Occasion',
+    'Benefits of Online Shopping',
+    'Top 5 Trending Products You Need to Check Out',
+    'The Ultimate Guide to Finding the Perfect Fit',
+    'Why Shop with Us?'
 ];
 
 let CARD_DESCRIPTION = [
     "some",
-    'Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive ',
-    'Pellentesque at semper nisi. Cras venenatis ante vel sollicitudin dignissim. Nulla at dictum eros, nec tempor augue. Sed elit ligula, volutpat quis ex sit amet, sodales cursus neque. Curabitur fermentum nunc semper lectus hendrerit dictum. Quisque libero tellus, tincidunt nec sem vel, iaculis dictum urna. Vivamus',
-    'Grave of white snowdrifts, Soft as milk, Vodka taught us, That its easy to die.Lamps, like planets, Float overhead.Traumatology is it ? Or the last judgment?',
-    'Have the wings covered us? Has it drifted like a blizzard? Winters have taught us, That it is warm to freeze. We move horizontally Without the help of arms and legs, Into an endless bedroom, Where, perhaps, God will meet.',
-    'Will collapse without effort All this big top. The women taught us that no one will cry for us. Shadows huddle on the walls. This or this light? We ought to kneel, Only there are no knees.',
-    'The bodies are separate parts It is difficult to combine in a puzzle. Our bosses taught us not to believe and not to ask. The salt in my eyes is watering, The phone is inactive, Through the waves of the muddy Styx Carries the gloomy Charon.',
-    'Holding a coin by the cheek, Grasping the stern with a hand, Learning leads to light, And ignorance to darkness. Security will not be there, Free feed will not be poured, But complete clarity will come - Absolute clarity of forms.'
+    'Elevate your style with these must-have accessories: statement handbags, stylish sunglasses, layered necklaces, classic watches, and bold hats. These accessories add a touch of glamour and sophistication to your outfit, allowing you to express your unique fashion sense.',
+    'Finding the perfect gift can be challenging. Consider the recipients interests, personalize the gift, opt for memorable experiences, choose practical items, or go with a gift card to give them the freedom to choose. Thoughtful gifts show your love and consideration.',
+    'Enjoy the advantages of online shopping: convenience, a wide selection of products, competitive prices, easy comparison, and hassle-free returns. Shop anytime and anywhere, find great deals, compare prices effortlessly, and enjoy the convenience of easy returns.',
+    'Discover the hottest products trending right now in the world of e-commerce. From stylish clothing and accessories to innovative gadgets, weve rounded up the top five must-have items that are flying off the virtual shelves. Stay ahead of the curve and add these trendy products!',
+    'Finding the right size when shopping online can be a challenge. In this comprehensive guide, well provide you with easy-to-use clothing size charts and essential tips to help you find the perfect fit. bodies are separate parts It is difficult to combine in a puzzle. is watering.',
+    'Holding a coin by the cheek, Grasping the stern with a hand, Learning leads to light, And ignorance to darkness. Security will not be there, Free feed will not be poured, But complete clarity will come - Absolute clarity of Discover the advantages of shopping on our e-commerce platform'
 ];
 
 document.querySelector('.slider__number').textContent = '0' + counter;
